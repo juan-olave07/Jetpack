@@ -132,15 +132,9 @@ Este taller permitió entender mejor la importancia del manejo adecuado del esta
 ## 📁 Taller_JetPack5
 ## Arquitectura MVVM y Consumo de APIs
 
-Proyecto enfocado en implementar una arquitectura más organizada y escalable utilizando el patrón MVVM (Model - View - ViewModel), permitiendo separar correctamente la lógica de negocio de la interfaz gráfica.
+Proyecto enfocado en la implementación de una arquitectura más organizada y escalable utilizando el patrón MVVM (Model View ViewModel), permitiendo separar adecuadamente la lógica de negocio de la interfaz gráfica. Durante el desarrollo se integró el consumo de APIs REST mediante Retrofit y Kotlin Coroutines, permitiendo trabajar con información obtenida desde servicios externos y actualizar dinámicamente la interfaz de usuario utilizando StateFlow y manejo reactivo de estados. También se implementaron estados de carga, éxito y error con el objetivo de mejorar el comportamiento de la aplicación frente a procesos asíncronos y posibles fallos durante la obtención de datos.
 
-En este taller se integró el consumo de APIs REST mediante Retrofit y Kotlin Coroutines, permitiendo obtener información desde servicios externos y mostrarla dinámicamente dentro de la aplicación.
-
-Uno de los aspectos más importantes trabajados en este proyecto fue el manejo de estados relacionados con procesos asíncronos, implementando estados de carga, éxito y error para mejorar el comportamiento de la interfaz frente a distintas situaciones.
-
-También se utilizó `StateFlow` para gestionar datos reactivos y actualizar automáticamente la UI cuando existieran cambios en la información recibida desde la API.
-
-Además de la parte funcional, este taller permitió comprender mejor la importancia de estructurar proyectos Android mediante arquitecturas limpias y organizadas, facilitando el mantenimiento del código y la escalabilidad de futuras funcionalidades.
+Aunque el proyecto no logró funcionar completamente de la manera esperada, el desarrollo del taller permitió adquirir experiencia práctica en el uso de herramientas modernas del ecosistema Android, especialmente en temas relacionados con arquitectura MVVM, consumo de APIs, corrutinas y manejo de estados. Además, el proceso ayudó a comprender mejor los retos que implica estructurar aplicaciones Android reales, fortaleciendo habilidades de depuración, organización del código y resolución de problemas durante el desarrollo.
 
 ### Características principales
 
