@@ -1,4 +1,4 @@
-Jetpack Compose Workshops – Android Development 
+# **Jetpack Compose Workshops – Android Development**
 
 Repositorio académico que reúne distintos talleres y proyectos desarrollados en **Android Studio** utilizando **Kotlin** y **Jetpack Compose**. Cada uno de los proyectos incluidos en este repositorio fue realizado con el propósito de fortalecer conocimientos relacionados con el desarrollo móvil moderno, aplicando herramientas y metodologías utilizadas actualmente dentro del ecosistema Android.
 
@@ -8,7 +8,7 @@ Además de enfocarse únicamente en la parte funcional de las aplicaciones, vari
 
 ---
 
-# Descripción General
+# Descripción General  
 
 Este repositorio contiene una recopilación de talleres académicos desarrollados durante el módulo de Programación Móvil. Cada taller aborda una temática específica y permite evidenciar una evolución progresiva en el aprendizaje de tecnologías modernas para Android.
 
