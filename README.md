@@ -58,13 +58,10 @@ El uso de estas herramientas permitió comprender cómo se desarrolla actualment
 ## 📁 Taller_JetPack1-3
 ## Introducción a Jetpack Compose
 
-Estos primeros talleres estuvieron enfocados en comprender los fundamentos básicos de Jetpack Compose y el nuevo enfoque declarativo utilizado para el desarrollo de interfaces Android modernas.
+Estos talleres estuvieron enfocados en comprender los fundamentos de Jetpack Compose y el enfoque declarativo utilizado para el desarrollo moderno de interfaces Android.
 
-Durante el desarrollo de estas prácticas se trabajó principalmente en la construcción de interfaces sencillas utilizando componentes básicos como textos, filas, columnas y contenedores. Además, se realizaron ejercicios relacionados con personalización visual, organización de layouts y reutilización de componentes UI.
+Durante las prácticas se trabajó en la creación de interfaces utilizando componentes como Text, Row, Column, Card y Surface, además de personalización visual, organización de layouts, reutilización de componentes y uso de Modifier. También se exploró la previsualización con @Preview y el manejo básico de estilos con Material Design 3, permitiendo desarrollar interfaces más dinámicas, modernas y fáciles de mantener.
 
-Uno de los principales objetivos de estos talleres fue comprender la diferencia entre el enfoque tradicional basado en XML y el nuevo modelo declarativo que propone Compose, permitiendo construir interfaces de manera más dinámica, flexible y sencilla de mantener.
-
-También se exploró el uso de Modifier, manejo básico de estilos y previsualización de componentes mediante @Preview, facilitando el proceso de diseño y desarrollo de interfaces.
 
 ### Temas desarrollados
 
@@ -88,15 +85,9 @@ También se exploró el uso de Modifier, manejo básico de estilos y previsualiz
 ## 📁 Taller_JetPack4
 ## Estado y Navegación en Compose
 
-Este taller estuvo enfocado en comprender cómo manejar estados dentro de aplicaciones desarrolladas con Jetpack Compose, además de implementar navegación entre múltiples pantallas utilizando herramientas modernas del ecosistema Android.
+En este taller se desarrolló una aplicación de finanzas personales utilizando persistencia local con Room, permitiendo almacenar y consultar transacciones financieras dentro del dispositivo. También se implementó inyección de dependencias con Hilt y una estructura basada en Clean Architecture, separando el proyecto en capas de datos, dominio y presentación para lograr un código más limpio, mantenible y escalable.
 
-Durante el desarrollo se realizaron interfaces dinámicas que reaccionaban automáticamente a los cambios de información, permitiendo comprender cómo Compose actualiza la UI de manera reactiva dependiendo del estado de la aplicación.
-
-También se trabajó en formularios interactivos, validaciones básicas y renderizado de listas dinámicas mediante LazyColumn, facilitando la comprensión de cómo manejar grandes cantidades de información de forma eficiente.
-
-Por otra parte, se implementó navegación entre diferentes vistas utilizando Navigation Compose, organizando las rutas de navegación y separando correctamente cada pantalla de la aplicación.
-
-Este taller permitió entender mejor la importancia del manejo adecuado del estado y cómo este influye directamente en el comportamiento de las interfaces modernas.
+La experiencia de este taller fue muy enriquecedora para el estudiante, ya que le permitió aprender a estructurar proyectos Android de manera profesional y organizada. Comprendió el funcionamiento de tecnologías importantes como Room y Hilt, así como la utilidad de Clean Architecture para facilitar el mantenimiento y escalabilidad del código. Además, fortaleció sus habilidades integrando sistemas de diseño generados con IA para mejorar la apariencia visual de la aplicación.
 
 ### Funcionalidades implementadas
 
