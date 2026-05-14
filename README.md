@@ -184,7 +184,7 @@ Además, se trabajó en la navegación entre pantallas, manejo de estados, separ
 
 Uno de los principales objetivos de este proyecto fue aplicar de manera práctica varios de los conceptos trabajados en talleres anteriores, integrando arquitectura MVVM, consumo de APIs, persistencia local e inyección de dependencias dentro de un mismo proyecto.
 
-### Funcionalidades principales
+### Funcionalidades principales:
 
 - Visualización de noticias en tiempo real
 - Navegación entre categorías y detalles
@@ -193,19 +193,19 @@ Uno de los principales objetivos de este proyecto fue aplicar de manera práctic
 - Interfaz moderna y adaptable
 - Actualización dinámica de contenido
 
-### Características implementadas
+### Características implementadas:
 
-✅ Arquitectura MVVM  
-✅ Clean Architecture  
-✅ Room Database  
-✅ Retrofit  
-✅ Inyección de dependencias con Hilt  
-✅ Navegación entre pantallas  
-✅ Material Design 3  
-✅ Persistencia local  
-✅ Consumo de APIs REST  
+- Arquitectura MVVM  
+- Clean Architecture  
+- Room Database  
+- Retrofit  
+- Inyección de dependencias con Hilt  
+- Navegación entre pantallas  
+- Material Design 3  
+- Persistencia local  
+- Consumo de APIs REST  
 
-### Tecnologías utilizadas
+### Tecnologías utilizadas:
 
 - Jetpack Compose
 - Room Database
