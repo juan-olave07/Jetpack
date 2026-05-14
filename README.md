@@ -155,15 +155,9 @@ Aunque el proyecto no logró funcionar completamente de la manera esperada, el d
 ## 📁 Taller_Noticias
 ## Aplicación de Noticias
 
-Aplicación Android desarrollada utilizando principios de arquitectura limpia y herramientas modernas del ecosistema Android, enfocada en el consumo y visualización de noticias en tiempo real mediante APIs REST.
+El proyecto consistió en el desarrollo de una aplicación Android enfocada en el consumo y visualización de noticias en tiempo real mediante APIs REST, utilizando herramientas modernas del ecosistema Android como Jetpack Compose. La aplicación fue diseñada bajo principios de arquitectura limpia y arquitectura MVVM, permitiendo una mejor organización del código, separación de responsabilidades y una interfaz moderna y dinámica para el usuario. Además, se implementó navegación entre pantallas, manejo de estados y actualización automática de la información obtenida desde servicios externos.
 
-El proyecto permite consultar noticias dinámicamente desde servicios externos y mostrarlas dentro de una interfaz moderna desarrollada completamente con Jetpack Compose.
-
-Durante el desarrollo también se implementó persistencia local utilizando Room Database, permitiendo almacenar información dentro del dispositivo y mejorar la experiencia del usuario.
-
-Además, se trabajó en la navegación entre pantallas, manejo de estados, separación de capas y actualización dinámica de información, buscando desarrollar una aplicación más organizada y cercana a un entorno real de desarrollo Android.
-
-Uno de los principales objetivos de este proyecto fue aplicar de manera práctica varios de los conceptos trabajados en talleres anteriores, integrando arquitectura MVVM, consumo de APIs, persistencia local e inyección de dependencias dentro de un mismo proyecto.
+Durante el desarrollo también se integró persistencia local utilizando Room Database, permitiendo almacenar información dentro del dispositivo y mejorar la experiencia del usuario. Este proyecto permitió aplicar de manera práctica conocimientos trabajados previamente, como consumo de APIs, persistencia local, inyección de dependencias y manejo de arquitectura escalable, acercando al estudiante a un entorno real de desarrollo profesional en Android.
 
 ### Funcionalidades principales:
 
