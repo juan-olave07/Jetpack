@@ -8,12 +8,6 @@ Además de enfocarse únicamente en la parte funcional de las aplicaciones, vari
 
 ---
 
-# Descripción General  
-
-Este repositorio reúne talleres académicos desarrollados durante las clases de Programación Móvil, enfocados en el aprendizaje progresivo de tecnologías modernas para Android utilizando Kotlin y Jetpack Compose.
-
-A lo largo de los proyectos se implementaron conceptos como UI declarativa, manejo de estado, navegación, arquitectura MVVM, consumo de APIs y persistencia local, aplicando buenas prácticas y herramientas utilizadas actualmente en el desarrollo profesional de aplicaciones Android.
-
 Entre los principales conceptos y tecnologías trabajadas se encuentran:
 
 - Desarrollo de interfaces declarativas con Jetpack Compose
