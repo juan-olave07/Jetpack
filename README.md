@@ -10,13 +10,9 @@ Además de enfocarse únicamente en la parte funcional de las aplicaciones, vari
 
 # Descripción General  
 
-Este repositorio contiene una recopilación de talleres académicos desarrollados durante el módulo de Programación Móvil. Cada taller aborda una temática específica y permite evidenciar una evolución progresiva en el aprendizaje de tecnologías modernas para Android.
+Este repositorio reúne talleres académicos desarrollados durante las clases de Programación Móvil, enfocados en el aprendizaje progresivo de tecnologías modernas para Android utilizando Kotlin y Jetpack Compose.
 
-Los primeros proyectos estuvieron orientados a comprender la lógica básica de Jetpack Compose y la construcción de interfaces mediante el enfoque declarativo. Posteriormente, se comenzaron a implementar conceptos relacionados con manejo de estado, navegación, arquitectura MVVM, consumo de APIs y persistencia local utilizando herramientas recomendadas oficialmente por Google.
-
-La intención principal de estos talleres fue no solamente desarrollar aplicaciones funcionales, sino también comprender cómo estructurar proyectos Android de manera más organizada, separando responsabilidades y aplicando buenas prácticas que faciliten el mantenimiento y crecimiento futuro de las aplicaciones.
-
-Dentro del desarrollo de los proyectos también se utilizaron herramientas modernas que actualmente son ampliamente implementadas en aplicaciones Android profesionales, permitiendo adquirir experiencia práctica con tecnologías relevantes para el desarrollo móvil actual.
+A lo largo de los proyectos se implementaron conceptos como UI declarativa, manejo de estado, navegación, arquitectura MVVM, consumo de APIs y persistencia local, aplicando buenas prácticas y herramientas utilizadas actualmente en el desarrollo profesional de aplicaciones Android.
 
 Entre los principales conceptos y tecnologías trabajadas se encuentran:
 
@@ -68,15 +64,15 @@ Durante el desarrollo de estas prácticas se trabajó principalmente en la const
 
 Uno de los principales objetivos de estos talleres fue comprender la diferencia entre el enfoque tradicional basado en XML y el nuevo modelo declarativo que propone Compose, permitiendo construir interfaces de manera más dinámica, flexible y sencilla de mantener.
 
-También se exploró el uso de `Modifier`, manejo básico de estilos y previsualización de componentes mediante `@Preview`, facilitando el proceso de diseño y desarrollo de interfaces.
+También se exploró el uso de Modifier, manejo básico de estilos y previsualización de componentes mediante @Preview, facilitando el proceso de diseño y desarrollo de interfaces.
 
 ### Temas desarrollados
 
 - Composables básicos
-- Uso de `Text`, `Column`, `Row` y `Box`
-- Manejo de `Modifier`
+- Uso de Text, Column, Row y Box
+- Manejo de Modifier
 - Personalización de componentes
-- Uso de `@Preview`
+- Uso de @Preview
 - Diseño declarativo
 - Organización de interfaces
 - Reutilización de componentes
@@ -96,7 +92,7 @@ Este taller estuvo enfocado en comprender cómo manejar estados dentro de aplica
 
 Durante el desarrollo se realizaron interfaces dinámicas que reaccionaban automáticamente a los cambios de información, permitiendo comprender cómo Compose actualiza la UI de manera reactiva dependiendo del estado de la aplicación.
 
-También se trabajó en formularios interactivos, validaciones básicas y renderizado de listas dinámicas mediante `LazyColumn`, facilitando la comprensión de cómo manejar grandes cantidades de información de forma eficiente.
+También se trabajó en formularios interactivos, validaciones básicas y renderizado de listas dinámicas mediante LazyColumn, facilitando la comprensión de cómo manejar grandes cantidades de información de forma eficiente.
 
 Por otra parte, se implementó navegación entre diferentes vistas utilizando Navigation Compose, organizando las rutas de navegación y separando correctamente cada pantalla de la aplicación.
 
@@ -113,11 +109,11 @@ Este taller permitió entender mejor la importancia del manejo adecuado del esta
 
 ### Temas desarrollados
 
-- `remember`
-- `mutableStateOf`
-- `LazyColumn`
-- `NavHost`
-- `Composable Routes`
+- remember
+- mutableStateOf
+- LazyColumn
+- NavHost
+- Composable Routes
 - State Hoisting
 - Navegación entre pantallas
 
@@ -148,12 +144,12 @@ Aunque el proyecto no logró funcionar completamente de la manera esperada, el d
 ### Temas desarrollados
 
 - Arquitectura MVVM
-- `ViewModel`
-- `StateFlow`
+- ViewModel
+- StateFlow
 - Retrofit
 - Coroutines
 - Manejo de errores
-- Estados `Loading`, `Success` y `Error`
+- Estados Loading, Success y Error
 
 ### Tecnologías utilizadas
 
