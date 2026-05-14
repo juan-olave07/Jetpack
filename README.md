@@ -51,7 +51,7 @@ Aplicación con:
 - Navigation Compose
 - Formularios y validaciones
 
-### 🛠 Tecnologías utilizadas
+### Tecnologías utilizadas
 - Navigation Compose
 - State Management
 - Material3
